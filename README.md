@@ -1,2 +1,1 @@
-jiasing's blog!
-JAVA Learning!
+Welcome to jiasing's blog!
